@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/account-xa/account-xa.iml" filepath="$PROJECT_DIR$/account-xa/account-xa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business-xa/business-xa.iml" filepath="$PROJECT_DIR$/business-xa/business-xa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-xa/order-xa.iml" filepath="$PROJECT_DIR$/order-xa/order-xa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-xa.iml" filepath="$PROJECT_DIR$/seata-xa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock-xa/stock-xa.iml" filepath="$PROJECT_DIR$/stock-xa/stock-xa.iml" />
+    </modules>
+  </component>
+</project>
